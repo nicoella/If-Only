@@ -1,4 +1,4 @@
-# If-Only
+# If Only
 A story game about the impact of decisions.
 
 ## Usage
